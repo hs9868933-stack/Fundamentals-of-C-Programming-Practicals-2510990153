@@ -7,7 +7,7 @@ int main() {
 
     if (x == 1) {
         int V,u,a,t;
-        printf("You have chosen V = u + at eqn\n");             //2510990027
+        printf("You have chosen V = u + at eqn\n");             //2510990153
         scanf("%d %d %d",&u,&a,&t);
 
         V = u + a*t;
@@ -43,3 +43,4 @@ int main() {
     return 0;
 
 }
+
