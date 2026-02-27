@@ -6,7 +6,7 @@ int main() {
     printf("Enter Number: ");
     scanf("%d", &n);
 
-    int sum = 0;    // 2510990027
+    int sum = 0;    // 2510990153
 
     while (i <= n) {
         sum += i;
@@ -18,3 +18,4 @@ int main() {
     return 0;
 
 }
+
