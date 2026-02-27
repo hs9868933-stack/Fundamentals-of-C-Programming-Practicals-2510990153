@@ -5,7 +5,8 @@ int main() {
     printf("Enter a num: ");
     scanf(" %d",&x);
 
-    printf("The num which we took in input is: %d",x);  // 2510990027
+    printf("The num which we took in input is: %d",x);  // 2510990153
     return 0;
 
 }
+
